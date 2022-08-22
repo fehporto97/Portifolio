@@ -2,6 +2,14 @@ html {
   scroll-behavior: smooth;
   background: rgb(128, 128, 128);
 }
+.logo{
+  font-size: 1.5rem;
+  line-height: 1.33;
+  max-width: 40ch;
+  margin-bottom: 60px;
+  color: #a3a3a3;
+
+}
 
 .header {
 
